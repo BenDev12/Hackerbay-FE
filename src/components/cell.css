@@ -1,0 +1,8 @@
+.cell {
+    width: 38px;
+    height: 38px;
+    background: rgb(243, 239, 239);
+    border: solid black 1px;
+    display: block;
+    float: left;
+  }
